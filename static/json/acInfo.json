@@ -1,0 +1,43 @@
+{
+	"id":1,
+	"title":"“以青春昂扬之姿，向新时代致敬”——第十一届“移通好闹钟”",
+	"img":[
+		"https://via.placeholder.com/860x480.png?text=banner1",
+		"https://via.placeholder.com/860x480.png?text=banner2"
+	],
+	"address":"清华大学A食堂",
+	"score":"6",
+	"belong":"竞技体育",
+	"unit":"清华大学食堂主管部门",
+	"content":"**一、活动主题**\n以青春昂扬之姿，向新时代致敬\n以青春昂扬之姿，向新时代致敬\n以青春昂扬之姿——展现当代大学生朝气与能力\n向新时代致敬——勇担时代新青年责任与使命\n**一、活动主题**\n以青春昂扬之姿，向新时代致敬\n以青春昂扬之姿，向新时代致敬\n以青春昂扬之姿——展现当代大学生朝气与能力\n向新时代致敬——勇担时代新青年责任与使命\n**一、活动主题**\n以青春昂扬之姿，向新时代致敬\n以青春昂扬之姿，向新时代致敬\n以青春昂扬之姿——展现当代大学生朝气与能力\n向新时代致敬——勇担时代新青年责任与使命\n**一、活动主题**\n以青春昂扬之姿，向新时代致敬\n以青春昂扬之姿，向新时代致敬\n以青春昂扬之姿——展现当代大学生朝气与能力\n向新时代致敬——勇担时代新青年责任与使命\n**一、活动主题**\n以青春昂扬之姿，向新时代致敬\n以青春昂扬之姿，向新时代致敬\n以青春昂扬之姿——展现当代大学生朝气与能力\n向新时代致敬——勇担时代新青年责任与使命\n",
+	"enlistStartTime":"2020-3-15",
+	"enlistOverTime":"2020-3-20",
+	"activityStartTime":"2020-4-15",
+	"activityOverTime":"2020-4-20",
+	"show":35,
+	"good":68,
+	"time":"2020.3.17",
+	"userInfo":{
+		"id":1,
+		"name":"风一样的男人",
+		"img":"https://www.eventwang.cn/Uploads/storage/81/user_avatar_27379.jpg",
+		"type":"腾讯云科创社"
+	},
+	"commitList":[
+		{
+			"id":1,
+			"name":"风一样的男人",
+			"time":"2020.3.17",
+			"img":"https://www.eventwang.cn/Uploads/storage/81/user_avatar_27379.jpg",
+			"content":"阿松大萨达撒打算啊"
+		},
+		{
+			"id":2,
+			"name":"风一样的男人",
+			"time":"2020.3.17",
+			"img":"https://www.eventwang.cn/Uploads/storage/81/user_avatar_27379.jpg",
+			"content":"飒飒实打实按时啊撒打算"
+		}
+	]
+
+}

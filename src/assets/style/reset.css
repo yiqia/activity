@@ -1,0 +1,32 @@
+/* CSS Document */
+
+@charset "utf-8";
+
+body,ul,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,iput{margin:0;padding:0;}
+
+body{font-size:12px;}
+
+img{border:none;}
+
+li{list-style:none;}
+
+input,select,textarea{outline:none;}
+
+textarea{resize:none;}
+
+a{text-decoration:none;}
+a:link,a:visited{color:#444;text-decoration:none;}
+a:hover{color:#ff0000;}
+/*�帡��*/
+
+.clearfix:after{content:"";display:block;clear:both;}
+
+.clearfix{zoom:1;}
+
+input[type="submit"],
+ input[type="reset"],
+ input[type="button"],
+button{
+ -webkit-appearance: none;
+	
+ }
